@@ -1,0 +1,14 @@
+c:\users\extri\documents\visual studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Debug\RedscientistMusicPackager.exe.config
+c:\users\extri\documents\visual studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Debug\RedscientistMusicPackager.exe
+c:\users\extri\documents\visual studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Debug\RedscientistMusicPackager.pdb
+c:\users\extri\documents\visual studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\obj\Debug\RedscientistMusicPackager.MainForm.resources
+c:\users\extri\documents\visual studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\obj\Debug\RedscientistMusicPackager.Properties.Resources.resources
+c:\users\extri\documents\visual studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\obj\Debug\RedscientistMusicPackager.csproj.GenerateResource.Cache
+c:\users\extri\documents\visual studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\obj\Debug\RedscientistMusicPackager.exe
+c:\users\extri\documents\visual studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\obj\Debug\RedscientistMusicPackager.pdb
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Debug\ImageProcessor.dll
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Debug\taglib-sharp.dll
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Debug\Ionic.Zip.dll
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Debug\Ionic.Zip.xml

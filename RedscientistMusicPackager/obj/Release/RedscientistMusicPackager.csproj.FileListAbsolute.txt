@@ -1,0 +1,14 @@
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Release\RedscientistMusicPackager.exe.config
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Release\RedscientistMusicPackager.exe
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Release\RedscientistMusicPackager.pdb
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Release\ImageProcessor.dll
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Release\Ionic.Zip.dll
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Release\taglib-sharp.dll
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Release\Ionic.Zip.xml
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\obj\Release\RedscientistMusicPackager.MainForm.resources
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\obj\Release\RedscientistMusicPackager.Properties.Resources.resources
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\obj\Release\RedscientistMusicPackager.csproj.GenerateResource.Cache
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\obj\Release\RedscientistMusicPackager.exe
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\obj\Release\RedscientistMusicPackager.pdb
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\bin\Release\taglib-sharp.pdb
+C:\Users\extri\Documents\Visual Studio 2015\Projects\RedscientistMusicPackager\RedscientistMusicPackager\obj\Release\RedscientistMusicPackager.csprojResolveAssemblyReference.cache
